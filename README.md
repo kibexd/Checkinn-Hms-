@@ -15,15 +15,18 @@ This application provides a robust system for managing hotel room bookings and o
 
 ## Screenshots
 
-<p float="left">
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H1.png" width="300" height="150 "/>
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H2.png" width="300" height="150" />
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H3.png" width="300" height="150" />
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H4.png" width="300" height="150" />
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H5.png" width="300" height="150" />
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H6.png" width="300" height="150" /> 
- <img src="/home/kife/Documents/Vscode Git Docs/Checkinn-Hms-/Hotel-Management-master/H7.png" width="300" height="150" /> 
-</p>
+![H1](https://github.com/kibexd/First-Repo/blob/main/H1.png)
+
+![H2](https://github.com/kibexd/First-Repo/blob/main/H2.png)
+
+![H3](https://github.com/kibexd/First-Repo/blob/main/H3.png)
+
+![H4](https://github.com/kibexd/First-Repo/blob/main/H4.png)
+
+![H5](https://github.com/kibexd/First-Repo/blob/main/H5.png)
+
+![H6](https://github.com/kibexd/First-Repo/blob/main/H6.png)
+
 
 ## Technology Stack
 
